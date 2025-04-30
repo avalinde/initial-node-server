@@ -1,0 +1,14 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "This is a demo for setting up a Node.js Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eve Morie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
